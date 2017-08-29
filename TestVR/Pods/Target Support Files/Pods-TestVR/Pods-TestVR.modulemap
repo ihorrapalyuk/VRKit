@@ -1,0 +1,6 @@
+framework module Pods_TestVR {
+  umbrella header "Pods-TestVR-umbrella.h"
+
+  export *
+  module * { export * }
+}

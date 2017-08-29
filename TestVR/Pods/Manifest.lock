@@ -1,0 +1,16 @@
+PODS:
+  - VRKit (0.1)
+
+DEPENDENCIES:
+  - VRKit (from `../../Cocoapods`)
+
+EXTERNAL SOURCES:
+  VRKit:
+    :path: "../../Cocoapods"
+
+SPEC CHECKSUMS:
+  VRKit: afb22ba357a42f4f86aa2303ccbb3d23d489383b
+
+PODFILE CHECKSUM: 7b1f16212c0ac8a30b9c16e35f78af131b1d5127
+
+COCOAPODS: 1.2.1
