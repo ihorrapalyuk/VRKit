@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
   s.requires_arc = true
 
-  s.homepage = "https://www.facebook.com/profile.php?id=100004234983243"
+  s.homepage = "https://github.com/ihorrapalyuk/VRKit.git"
 
   s.license = { :type => 'Copyright', :file => 'LICENSE' }
 
