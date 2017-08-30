@@ -24,3 +24,4 @@ Cocoapods:
 Example Project https://github.com/ihorrapalyuk/VRKit/tree/master/TestVR 
 
 
+If this pod will be popular i can open its source
