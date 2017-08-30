@@ -18,7 +18,7 @@ Cocoapods:
         VR.stop()
 
         
-<img src="https://github.com/ihorrapalyuk/VRKit/blob/master/vr.gif" alt="alt text" width= "200px" align="center">
+<img src="https://github.com/ihorrapalyuk/VRKit/blob/master/vr.gif" alt="alt text" width= "400px" align="center">
 
 
 Example Project https://github.com/ihorrapalyuk/VRKit/tree/master/TestVR 
