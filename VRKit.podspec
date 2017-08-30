@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "VRKit"
-  s.version      = "0.1"
+  s.version      = "0.2"
   s.summary      = "VRKit turns your app into Virtual Relity App."
   s.platform = :ios
   s.ios.deployment_target = '8.0'
@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 
   s.author = { "VoidStudio" => "i.rapalyuk2012@gmail.com" }
 
-  s.source = { :git => "https://github.com/ihorrapalyuk/VRKit.git", :tag => "0.1"}
+  s.source = { :git => "https://github.com/ihorrapalyuk/VRKit.git", :tag => "0.2"}
 
   s.vendored_frameworks = 'VRKit.framework'
 
